@@ -57,7 +57,7 @@
 
         #endregion
 
-        private UserControl1 userControl11;
+        public UserControl1 userControl11;
     }
 }
 

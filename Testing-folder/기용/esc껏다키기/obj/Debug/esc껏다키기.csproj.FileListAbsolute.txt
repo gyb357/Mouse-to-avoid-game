@@ -10,3 +10,15 @@ C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\esc껏다키기\o
 C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\esc껏다키기\obj\Debug\esc껏다키기.exe
 C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\esc껏다키기\obj\Debug\esc껏다키기.pdb
 C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\esc껏다키기\obj\Debug\esc껏다키기.UserControl1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\bin\Debug\esc껏다키기.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\bin\Debug\esc껏다키기.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\bin\Debug\esc껏다키기.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.UserControl1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\esc껏다키기\obj\Debug\esc껏다키기.pdb

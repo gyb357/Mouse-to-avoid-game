@@ -1,0 +1,18 @@
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\bin\Debug\transparency.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\bin\Debug\transparency.exe
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\bin\Debug\transparency.pdb
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.exe
+C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\테스트\transparency\obj\Debug\transparency.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\transparency\obj\Debug\transparency.csproj.AssemblyReference.cache

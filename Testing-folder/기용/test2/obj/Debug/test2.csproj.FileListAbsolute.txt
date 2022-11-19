@@ -1,0 +1,10 @@
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\bin\Debug\test2.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\bin\Debug\test2.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\bin\Debug\test2.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\test2\obj\Debug\test2.pdb

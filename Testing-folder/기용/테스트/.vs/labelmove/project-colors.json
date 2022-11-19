@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b44ad3b1-ab33-42ac-8ae9-338016a2bfbc": {
+      "ProjectGuid": "b44ad3b1-ab33-42ac-8ae9-338016a2bfbc",
+      "DisplayName": "labelmove",
+      "ColorIndex": 0
+    },
+    "e458016a-3199-41df-84cc-bfdac27db74d": {
+      "ProjectGuid": "e458016a-3199-41df-84cc-bfdac27db74d",
+      "DisplayName": "transparency",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
