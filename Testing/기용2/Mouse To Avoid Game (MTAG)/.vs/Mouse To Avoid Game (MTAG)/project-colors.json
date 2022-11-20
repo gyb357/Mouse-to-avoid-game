@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d007599c-292a-4bb5-a57d-c808a9a40fa3": {
+      "ProjectGuid": "d007599c-292a-4bb5-a57d-c808a9a40fa3",
+      "DisplayName": "Mouse To Avoid Game (MTAG)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
