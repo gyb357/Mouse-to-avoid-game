@@ -52,6 +52,12 @@
     <Compile Include="Episode1\Episode1T.Designer.cs">
       <DependentUpon>Episode1T.cs</DependentUpon>
     </Compile>
+    <Compile Include="Episode1\NextStage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Episode1\NextStage1.Designer.cs">
+      <DependentUpon>NextStage1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Episode2\Episode2T.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -224,6 +230,9 @@
     </Compile>
     <EmbeddedResource Include="Episode1\Episode1T.resx">
       <DependentUpon>Episode1T.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Episode1\NextStage1.resx">
+      <DependentUpon>NextStage1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Episode1\Stage 1-2.resx">
       <DependentUpon>Stage 1-2.cs</DependentUpon>

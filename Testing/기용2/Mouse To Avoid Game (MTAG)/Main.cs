@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
 
 namespace Mouse_To_Avoid_Game__MTAG_
 {
@@ -187,6 +188,42 @@ namespace Mouse_To_Avoid_Game__MTAG_
         {
             pause1.Location = new Point(0, 0);
             pause1.Size = new Size(ClientSize.Width, ClientSize.Height);
+        }
+
+        private void nextStage11_Load(object sender, EventArgs e)
+        {
+            nextStage11.Location = new Point(0, 0);
+            nextStage11.Size = new Size(ClientSize.Width, ClientSize.Height);
+        }
+
+        public Point point = new Point();
+        public Color color = new Color();
+
+        [DllImport("user32.dll", SetLastError = true)]
+        public static extern IntPtr GetDesktopWindow();
+        [DllImport("user32.dll", SetLastError = true)]
+        public static extern IntPtr GetWindowDC(IntPtr window);
+        [DllImport("gdi32.dll", SetLastError = true)]
+        public static extern uint GetPixel(IntPtr dc, int x, int y);
+        [DllImport("user32.dll", SetLastError = true)]
+        public static extern int ReleaseDC(IntPtr window, IntPtr dc);
+
+        public Color GetColor(Point p)
+        {
+            // p의 xy값
+            int x = p.X;
+            int y = p.Y;
+
+
+            IntPtr desk = GetDesktopWindow();
+            IntPtr dc = GetWindowDC(desk);
+
+            int pxl = (int)GetPixel(dc, x, y);
+
+            ReleaseDC(desk, dc);
+
+            // 정수형 GetPixel()값을 16진수로 변환, 리턴
+            return Color.FromArgb(255, (byte)((pxl >> 0) & 0xff), (byte)((pxl >> 8) & 0xff), (byte)(pxl >> 16) & 0xff);
         }
     }
 }
