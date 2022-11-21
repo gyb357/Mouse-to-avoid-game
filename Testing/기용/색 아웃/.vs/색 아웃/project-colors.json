@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d9b647b-999b-4c15-896c-fe7053e8534c": {
+      "ProjectGuid": "3d9b647b-999b-4c15-896c-fe7053e8534c",
+      "DisplayName": "색 아웃",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

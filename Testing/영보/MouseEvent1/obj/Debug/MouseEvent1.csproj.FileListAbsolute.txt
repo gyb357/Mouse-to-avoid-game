@@ -9,3 +9,17 @@ C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\
 C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MouseEvent1\obj\Debug\MouseEvent1.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MouseEvent1\obj\Debug\MouseEvent1.exe
 C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MouseEvent1\obj\Debug\MouseEvent1.pdb
+<<<<<<< HEAD
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\bin\Debug\MouseEvent1.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\bin\Debug\MouseEvent1.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\bin\Debug\MouseEvent1.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\MouseEvent1\obj\Debug\MouseEvent1.pdb
+=======
+>>>>>>> main

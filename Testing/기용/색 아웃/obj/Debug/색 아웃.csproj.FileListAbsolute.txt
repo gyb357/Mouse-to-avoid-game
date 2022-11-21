@@ -1,0 +1,11 @@
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\bin\Debug\색 아웃.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\bin\Debug\색 아웃.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\bin\Debug\색 아웃.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색 아웃.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색 아웃.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색_아웃.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색_아웃.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색 아웃.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색 아웃.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색 아웃.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\색 아웃\obj\Debug\색 아웃.pdb

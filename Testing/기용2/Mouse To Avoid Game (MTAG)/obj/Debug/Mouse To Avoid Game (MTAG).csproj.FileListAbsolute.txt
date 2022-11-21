@@ -22,3 +22,28 @@ C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\Mouse To Avoid Ga
 C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_5.resources
 C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_6.resources
 C:\Users\gguip\OneDrive\바탕 화면\C언어 장단기 강좌\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_7.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\bin\Debug\Mouse To Avoid Game (MTAG).exe.config
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\bin\Debug\Mouse To Avoid Game (MTAG).exe
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\bin\Debug\Mouse To Avoid Game (MTAG).pdb
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse To Avoid Game (MTAG).csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse To Avoid Game (MTAG).csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Episode1.Episode1T.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_2.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_3.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_4.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_5.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_6.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_7.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Episode3.Episode3T.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Main.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Maint.EpisodeSel.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.How_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Maint.Pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Title.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Stage1.Stage_1_1.resources
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse To Avoid Game (MTAG).csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse To Avoid Game (MTAG).csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse To Avoid Game (MTAG).exe
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse To Avoid Game (MTAG).pdb
+C:\Users\gguip\OneDrive\바탕 화면\Mouse To Avoid Game (MTAG)\obj\Debug\Mouse_To_Avoid_Game__MTAG_.Episode1.NextStage1.resources

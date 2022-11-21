@@ -9,14 +9,3 @@ C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Test
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\테스트\obj\Debug\labelmove.csproj.CoreCompileInputs.cache
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\테스트\obj\Debug\테스트.exe
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing-folder\기용\테스트\테스트\obj\Debug\테스트.pdb
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\bin\Debug\테스트.exe.config
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\bin\Debug\테스트.exe
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\bin\Debug\테스트.pdb
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\labelmove.csproj.AssemblyReference.cache
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\labelmove.csproj.SuggestedBindingRedirects.cache
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\테스트.Form1.resources
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\테스트.Properties.Resources.resources
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\labelmove.csproj.GenerateResource.cache
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\labelmove.csproj.CoreCompileInputs.cache
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\테스트.exe
-C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\기용\테스트\테스트\obj\Debug\테스트.pdb
