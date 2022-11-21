@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\bin\Debug\Font0.exe.config
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\bin\Debug\Font0.exe
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\bin\Debug\Font0.pdb
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.Form1.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.Properties.Resources.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.exe
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\obj\Debug\Font0.pdb
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\Font0\bin\Debug\BMJUA_ttf.ttf
