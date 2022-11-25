@@ -19,7 +19,7 @@ namespace MouseEvent1
 
 
             this.AutoScaleMode = AutoScaleMode.Dpi;
-<<<<<<< HEAD
+
 
             point = Cursor.Position;
             color = GetColor(point);
@@ -41,23 +41,11 @@ namespace MouseEvent1
             {
                 label2.Text = "other";
             }
-=======
->>>>>>> main
         }
 
 
 
         // Dll파일(user32.dll, gdi32.dll)을 import 하기 위한 작업
-<<<<<<< HEAD
-            [DllImport("user32.dll", SetLastError = true)]
-            public static extern IntPtr GetDesktopWindow();
-            [DllImport("user32.dll", SetLastError = true)]
-            public static extern IntPtr GetWindowDC(IntPtr window);
-            [DllImport("gdi32.dll", SetLastError = true)]
-            public static extern uint GetPixel(IntPtr dc, int x, int y);
-            [DllImport("user32.dll", SetLastError = true)]
-            public static extern int ReleaseDC(IntPtr window, IntPtr dc);
-=======
         [DllImport("user32.dll", SetLastError = true)]
         public static extern IntPtr GetDesktopWindow();
         [DllImport("user32.dll", SetLastError = true)]
@@ -66,7 +54,6 @@ namespace MouseEvent1
         public static extern uint GetPixel(IntPtr dc, int x, int y);
         [DllImport("user32.dll", SetLastError = true)]
         public static extern int ReleaseDC(IntPtr window, IntPtr dc);
->>>>>>> main
 
 
 
@@ -100,11 +87,8 @@ namespace MouseEvent1
         // 틱마다 실행
         private void timer1_Tick(object sender, EventArgs e)
         {
-<<<<<<< HEAD
            /* point = Cursor.Position;
-=======
             point = Cursor.Position;
->>>>>>> main
             color = GetColor(point);
 
 
@@ -123,11 +107,7 @@ namespace MouseEvent1
             else
             {
                 label2.Text = "other";
-<<<<<<< HEAD
             }*/
-=======
-            }
->>>>>>> main
         }
     }
 }
