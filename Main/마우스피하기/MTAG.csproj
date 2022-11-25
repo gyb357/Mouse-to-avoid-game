@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9B2DC78-AF41-445F-ACC2-5447403F13BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UserControl0</RootNamespace>
+    <AssemblyName>UserControl0</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MTAG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTAG.Designer.cs">
+      <DependentUpon>MTAG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyEvent.cs" />
+    <Compile Include="MouseEvent.cs" />
+    <Compile Include="UserControl\game_pause.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\game_pause.Designer.cs">
+      <DependentUpon>game_pause.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\game_over.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\game_over.Designer.cs">
+      <DependentUpon>game_over.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\game_success.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\game_success.Designer.cs">
+      <DependentUpon>game_success.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\how_to_play.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\how_to_play.Designer.cs">
+      <DependentUpon>how_to_play.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControl\select_level.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\select_level.Designer.cs">
+      <DependentUpon>select_level.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\select_stage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\select_stage.Designer.cs">
+      <DependentUpon>select_stage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\stage_level.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\stage_level.Designer.cs">
+      <DependentUpon>stage_level.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MTAG.resx">
+      <DependentUpon>MTAG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserControl\game_over.resx">
+      <DependentUpon>game_over.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\game_pause.resx">
+      <DependentUpon>game_pause.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\game_success.resx">
+      <DependentUpon>game_success.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\how_to_play.resx">
+      <DependentUpon>how_to_play.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\select_level.resx">
+      <DependentUpon>select_level.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\select_stage.resx">
+      <DependentUpon>select_stage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\stage_level.resx">
+      <DependentUpon>stage_level.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="font\g11b_mod.bdf" />
+    <None Include="font\g11_mod.bdf" />
+    <None Include="font\g7_mod.bdf" />
+    <None Include="font\g9_mod.bdf" />
+    <None Include="font\Galmuri11-Bold.bdf" />
+    <None Include="font\Galmuri11-Bold.ttf" />
+    <None Include="font\Galmuri11-Bold.woff2" />
+    <None Include="font\Galmuri11.bdf" />
+    <None Include="font\Galmuri11.ttf" />
+    <None Include="font\Galmuri11.woff2" />
+    <None Include="font\Galmuri11Bitmap-Bold.ttf" />
+    <None Include="font\Galmuri11Bitmap.ttf" />
+    <None Include="font\Galmuri7.bdf" />
+    <None Include="font\Galmuri7.ttf" />
+    <None Include="font\Galmuri7.woff2" />
+    <None Include="font\Galmuri7Bitmap.ttf" />
+    <None Include="font\Galmuri9.bdf" />
+    <None Include="font\Galmuri9.ttf" />
+    <None Include="font\Galmuri9.woff2" />
+    <None Include="font\Galmuri9Bitmap.ttf" />
+    <None Include="Galmuri9.ttf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="font\galmuri.css" />
+    <Content Include="font\LICENSE.txt" />
+    <Content Include="img\Stage 1 %28150%29%28150%29.jpg" />
+    <Content Include="img\Stage 1 Full.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

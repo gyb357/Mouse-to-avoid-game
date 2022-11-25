@@ -17,3 +17,22 @@ C:\Users\고영보\source\repos\UserControl0\obj\Debug\UserControl0.select_level
 C:\Users\고영보\source\repos\UserControl0\obj\Debug\UserControl0.game_pause.resources
 C:\Users\고영보\source\repos\UserControl0\obj\Debug\UserControl0.game_success.resources
 C:\Users\고영보\source\repos\UserControl0\obj\Debug\UserControl0.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\bin\Debug\UserControl0.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\bin\Debug\UserControl0.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\bin\Debug\UserControl0.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Testing\영보\UserControl0\obj\Debug\UserControl0.pdb
