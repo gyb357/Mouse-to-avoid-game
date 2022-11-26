@@ -45,19 +45,19 @@ namespace 테스트
             {
                 temp = 0;
             }
-            else if(x == 50 && y == 50)
+            else if(x == 400 || y == 120)
             {
                 temp = 1;
             }
             if (temp == 0)
             {
-                x++;
-                y++;
+                x += 20;
+                //y += 4;
             }
             else if (temp == 1)
             {
-                x--;
-                y--;
+                x -= 20;
+                //y -= 0;
             }
 
             label1.Location = new Point(x,y);
