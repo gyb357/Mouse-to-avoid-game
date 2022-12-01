@@ -28,6 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(select_level));
             this.label1 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -37,6 +39,7 @@
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -153,6 +156,19 @@
             this.pictureBox1.TabIndex = 14;
             this.pictureBox1.TabStop = false;
             // 
+            // imageList1
+            // 
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList1.Images.SetKeyName(0, "1-1.png");
+            this.imageList1.Images.SetKeyName(1, "1-2.png");
+            this.imageList1.Images.SetKeyName(2, "1-3.png");
+            this.imageList1.Images.SetKeyName(3, "1-4.png");
+            this.imageList1.Images.SetKeyName(4, "1-5.png");
+            this.imageList1.Images.SetKeyName(5, "1-6.png");
+            this.imageList1.Images.SetKeyName(6, "2-1.png");
+            this.imageList1.Images.SetKeyName(7, "2-2.png");
+            // 
             // select_level
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -185,5 +201,6 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.PictureBox pictureBox1;
+        public System.Windows.Forms.ImageList imageList1;
     }
 }

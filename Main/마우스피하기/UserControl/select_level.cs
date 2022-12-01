@@ -126,13 +126,12 @@ namespace UserControl0
             if (button == button1 || button == button2 || button == button3 ||
                 button == button4 || button == button5 || button == button6)
             {
-                if (button == button1) { MTAG.form1.level = 1; } // level1
-                if (button == button2) { MTAG.form1.level = 2; } // level2
-                if (button == button3) { MTAG.form1.level = 3; } // level3
-                if (button == button4) { MTAG.form1.level = 4; } // level4
-                if (button == button5) { MTAG.form1.level = 5; } // level5
-                if (button == button6) { MTAG.form1.level = 6; } // level6
-
+                if (button == button1) { MTAG.form1.level = 1;} // level1
+                if (button == button2) { MTAG.form1.level = 2;} // level2
+                if (button == button3) { MTAG.form1.level = 3;} // level3
+                if (button == button4) { MTAG.form1.level = 4;} // level4
+                if (button == button5) { MTAG.form1.level = 5;} // level5
+                if (button == button6) { MTAG.form1.level = 6;} // level6
 
                 // stage_level1.cs (게임 화면) 로 이동
                 MTAG.form1.UserControlVisible(MTAG.form1.stage_level1, this);
