@@ -108,7 +108,7 @@ namespace UserControl0
 
 
                 // 노란색일 때
-                if (mouseColor == Color.FromArgb(255, 255, 0))
+                if (mouseColor == Color.FromArgb(255, 242, 0))
                 {
                     // game_success1.cs (클리어 화면) 로 이동
                     UserControlVisible(game_success1, stage_level1);

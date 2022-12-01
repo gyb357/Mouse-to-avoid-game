@@ -17,3 +17,41 @@ C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Main\마�
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Main\마우스피하기\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Main\마우스피하기\obj\Debug\UserControl0.exe
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 21조\Main\마우스피하기\obj\Debug\UserControl0.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\bin\Debug\UserControl0.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\bin\Debug\UserControl0.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\bin\Debug\UserControl0.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.MTAG.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main\마우스피하기\obj\Debug\UserControl0.pdb
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\bin\Debug\UserControl0.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\bin\Debug\UserControl0.exe
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\bin\Debug\UserControl0.pdb
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.MTAG.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.exe
+C:\Users\gguip\OneDrive\바탕 화면\Main4\마우스피하기\obj\Debug\UserControl0.pdb
