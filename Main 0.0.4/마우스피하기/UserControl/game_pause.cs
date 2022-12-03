@@ -46,6 +46,7 @@ namespace UserControl0
                 // select_level1.cs (레벨 선택 화면) 로 이동
                 MTAG.form1.UserControlVisible(MTAG.form1.select_level1, this);
                 MTAG.form1.stage_level1.temp = 0;
+                MTAG.form1.buttonEnabled();
             }
         }
 

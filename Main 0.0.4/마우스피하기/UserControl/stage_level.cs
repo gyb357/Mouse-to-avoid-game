@@ -212,6 +212,8 @@ namespace UserControl0
 
         private void button3_Click(object sender, EventArgs e)
         {
+            if(MTAG.form1.level_temp2 == 2) {MTAG.form1.level_temp2++; MTAG.form1.buttonEnabled();} // button 활성화
+
             MTAG.form1.UserControlVisible(MTAG.form1.game_success1, MTAG.form1.stage_level1);
         }
     }

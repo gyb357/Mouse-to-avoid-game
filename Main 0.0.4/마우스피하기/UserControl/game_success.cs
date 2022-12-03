@@ -33,6 +33,7 @@ namespace UserControl0
 
                 // select_level1.cs (레벨 선택 화면) 로 이동
                 MTAG.form1.UserControlVisible(MTAG.form1.select_level1, this);
+                MTAG.form1.buttonEnabled();
             }
 
 
@@ -57,11 +58,11 @@ namespace UserControl0
                         }
                         else
                         {
-                            MTAG.form1.main1.Visible = true; // 수정 필요
-                            MTAG.form1.main1.BringToFront(); // 수정 필요
+                            MTAG.form1.UserControlVisible(MTAG.form1.main1, this);
                             MessageBox.Show("클리어"); // 수정 필요
                             MTAG.form1.stage = 0;
                             MTAG.form1.level = 0;
+                            return;//if문 탈출
                         }
                     }
                     else
