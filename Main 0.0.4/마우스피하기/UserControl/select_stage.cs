@@ -39,9 +39,9 @@ namespace UserControl0
             // stage1, stage2, stage3 를 눌렀을 경우
             if (button == button1 || button == button2 || button == button3)
             {
-                if (button == button1) { MTAG.form1.stage = 1; MTAG.form1.select_level1.label1.Text = "Stage 1"; } // stage1
-                if (button == button2) { MTAG.form1.stage = 2; MTAG.form1.select_level1.label1.Text = "Stage 2"; } // stage2
-                if (button == button3) { MTAG.form1.stage = 3; MTAG.form1.select_level1.label1.Text = "Stage 3"; } // stage3
+                if (button == button1) { MTAG.form1.stage = 1; MTAG.form1.select_level1.label1.Text = "Stage 1"; MTAG.form1.buttonEnabled(); } // stage1
+                if (button == button2) { MTAG.form1.stage = 2; MTAG.form1.select_level1.label1.Text = "Stage 2"; MTAG.form1.buttonEnabled(); } // stage2
+                if (button == button3) { MTAG.form1.stage = 3; MTAG.form1.select_level1.label1.Text = "Stage 3"; MTAG.form1.buttonEnabled(); } // stage3
 
                 MTAG.form1.UserControlVisible(MTAG.form1.select_level1, this);
             }

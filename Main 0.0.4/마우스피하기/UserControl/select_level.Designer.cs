@@ -55,6 +55,7 @@
             this.button2.BackColor = System.Drawing.Color.Black;
             this.button2.BackgroundImage = global::UserControl0.Properties.Resources.N2;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.button2.Enabled = false;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Image = global::UserControl0.Properties.Resources.N2;
@@ -72,6 +73,7 @@
             this.button3.BackColor = System.Drawing.Color.Black;
             this.button3.BackgroundImage = global::UserControl0.Properties.Resources.N3;
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.button3.Enabled = false;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Image = global::UserControl0.Properties.Resources.N3;
@@ -89,6 +91,7 @@
             this.button4.BackColor = System.Drawing.Color.Black;
             this.button4.BackgroundImage = global::UserControl0.Properties.Resources.N4;
             this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.button4.Enabled = false;
             this.button4.FlatAppearance.BorderSize = 0;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Image = global::UserControl0.Properties.Resources.N4;
@@ -106,6 +109,7 @@
             this.button5.BackColor = System.Drawing.Color.Black;
             this.button5.BackgroundImage = global::UserControl0.Properties.Resources.N5;
             this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.button5.Enabled = false;
             this.button5.FlatAppearance.BorderSize = 0;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Image = global::UserControl0.Properties.Resources.N5;
@@ -123,6 +127,7 @@
             this.button6.BackColor = System.Drawing.Color.BlanchedAlmond;
             this.button6.BackgroundImage = global::UserControl0.Properties.Resources.N6;
             this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button6.Enabled = false;
             this.button6.FlatAppearance.BorderSize = 0;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Image = global::UserControl0.Properties.Resources.N6;
@@ -184,13 +189,13 @@
         }
 
         #endregion
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
         private System.Windows.Forms.PictureBox pictureBox2;
         public System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Button button1;
+        public System.Windows.Forms.Button button2;
+        public System.Windows.Forms.Button button3;
+        public System.Windows.Forms.Button button4;
+        public System.Windows.Forms.Button button5;
+        public System.Windows.Forms.Button button6;
     }
 }
