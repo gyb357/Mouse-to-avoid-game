@@ -16,6 +16,8 @@ namespace UserControl0
 
             form1 = this;
 
+            form1.StartPosition = FormStartPosition.Manual;
+            form1.Location = new Point((1920 - 800)/2,(1080 - 600)/2);
 
             // 유저 컨트롤 배열
             UserControl[] userControl = new UserControl[]
@@ -43,8 +45,6 @@ namespace UserControl0
             main1.Visible = true;
         }
 
-
-
         // 클래스 객체
         MouseEvent mouseEvent = new MouseEvent();
 
@@ -69,9 +69,6 @@ namespace UserControl0
         public int levelCount = 6;           // 레벨 개수
         public Point mousePoint = new Point(); // 마우스 위치
         public Color mouseColor = new Color(); // 마우스 위치 색상
-
-
-
         // UserControl 초기화
         private void InitializeUserControl(UserControl uc, Point p, Size s, Boolean b)
         {
@@ -80,15 +77,37 @@ namespace UserControl0
             uc.Visible = false;
         }
 
-
-
+        int cx = (1920 - 800) / 2;
+        int cy = (1080 - 600) / 2;
         // UserControl 이동
         public void UserControlVisible(UserControl uc1, UserControl uc2)
         {
             uc1.Visible = true;
             uc2.Visible = false;
         }
-
+        
+        public void cursorPosition()
+        {
+            if (MTAG.form1.stage_level1.temp != 1 && stage == 1 && level == 1) Cursor.Position = new Point(cx + 300, cy + 50);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 1 && level == 2) Cursor.Position = new Point(cx + 300, cy + 50);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 1 && level == 3) Cursor.Position = new Point(cx + 300, cy + 50);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 1 && level == 4) Cursor.Position = new Point(cx + 300, cy + 50);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 1 && level == 5) Cursor.Position = new Point(cx + 50, cy + 50);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 1 && level == 6) Cursor.Position = new Point(cx + 300, cy + 50);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 2 && level == 1) Cursor.Position = new Point(cx + 50, cy + 330);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 2 && level == 2) Cursor.Position = new Point(cx + 30, cy + 500);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 2 && level == 3) Cursor.Position = new Point(cx + 400, cy + 300);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 2 && level == 4) Cursor.Position = new Point(cx + 100, cy + 500);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 2 && level == 5) Cursor.Position = new Point(cx + 30, cy + 500);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 2 && level == 6) Cursor.Position = new Point(cx + 350, cy + 100);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 3 && level == 1) Cursor.Position = new Point(cx + 230, cy + 300);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 3 && level == 2) Cursor.Position = new Point(cx + 120, cy + 120);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 3 && level == 3) Cursor.Position = new Point(cx + 400, cy + 300);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 3 && level == 4) Cursor.Position = new Point(cx + 100, cy + 100);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 3 && level == 5) Cursor.Position = new Point(cx + 100, cy + 100);
+            else if (MTAG.form1.stage_level1.temp != 1 && stage == 3 && level == 6) Cursor.Position = new Point(cx + 30, cy + 50);
+            else { MTAG.form1.stage_level1.temp = 0; }
+        }//스테이지 시작 위치 설정
 
         int time = 0; // timer 지연
         // 타이머

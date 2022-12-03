@@ -37,7 +37,7 @@ namespace UserControl0
 
 
             // retry 를 눌렀을 경우 stage_level1.cs (게임 화면) 로 이동
-            if (label == label3) { MTAG.form1.UserControlVisible(MTAG.form1.stage_level1, this); }
+            if (label == label3) { MTAG.form1.UserControlVisible(MTAG.form1.stage_level1, this); MTAG.form1.cursorPosition(); }
 
 
             // next stage 를 눌렀을 경우
@@ -51,12 +51,17 @@ namespace UserControl0
                         {
                             MTAG.form1.stage++;
                             MTAG.form1.level = 1;
+                            if(MTAG.form1.stage == 1)MTAG.form1.select_level1.label1.Text = "Stage 1";
+                            else if (MTAG.form1.stage == 2)MTAG.form1.select_level1.label1.Text = "Stage 2";
+                            else if (MTAG.form1.stage == 3)MTAG.form1.select_level1.label1.Text = "Stage 3";
                         }
                         else
                         {
                             MTAG.form1.main1.Visible = true; // 수정 필요
                             MTAG.form1.main1.BringToFront(); // 수정 필요
                             MessageBox.Show("클리어"); // 수정 필요
+                            MTAG.form1.stage = 0;
+                            MTAG.form1.level = 0;
                         }
                     }
                     else
@@ -67,6 +72,7 @@ namespace UserControl0
 
                     // stage_level1.cs (게임 화면) 로 이동
                     MTAG.form1.UserControlVisible(MTAG.form1.stage_level1, this);
+                    MTAG.form1.cursorPosition();
                 }
             }
             /*

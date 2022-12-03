@@ -12,9 +12,7 @@ namespace UserControl0
         {
             InitializeComponent();
         }
-
-
-
+        public int temp = 0; // 마우스 0 이면 시작 위치, 1 이면 esc 뒤로가기시 전에 있던데로 감 
         private void stage_level_KeyDown(object sender, KeyEventArgs e)
         {
             // Ecs 키를 눌렀을 경우
@@ -23,11 +21,13 @@ namespace UserControl0
                 // 마우스 위치 저장
                 MTAG.form1.mousePoint = Cursor.Position;
 
-
                 // game_pause1.cs (일시 정지 화면) 로 이동
                 MTAG.form1.UserControlVisible(MTAG.form1.game_pause1, this);
+
+                temp = 1;
             }
         }
+
 
         private void stage_level_Paint(object sender, PaintEventArgs e)
         {
@@ -203,10 +203,6 @@ namespace UserControl0
                 }
             }
             catch{}
-        }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
         }
 
         private void button1_Click(object sender, EventArgs e)
