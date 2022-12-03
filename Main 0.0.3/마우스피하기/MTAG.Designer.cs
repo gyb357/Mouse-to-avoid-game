@@ -167,6 +167,7 @@
             this.Controls.Add(this.select_stage1);
             this.Controls.Add(this.how_to_play1);
             this.Controls.Add(this.main1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "MTAG";
             this.Text = "MTAG";
             this.ResumeLayout(false);

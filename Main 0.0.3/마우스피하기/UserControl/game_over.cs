@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace UserControl0
 {
-    public partial class game_pause : UserControl
+    public partial class game_over : UserControl
     {
-        public game_pause()
+        public game_over()
         {
             InitializeComponent();
         }
@@ -26,19 +26,11 @@ namespace UserControl0
             Label label = sender as Label;
 
 
-            // back 을 눌렀을 경우 stage_level1.cs (게임 화면) 로 이동
-            if (label == label2)
-            {
-                // Ecs (pause) 누르기 전 마우스 위치로 이동
-                MouseEvent.mouseEvent.SetMousePosition(MTAG.form1.mousePoint);
+            // retry 를 눌렀을 경우 stage_level1.cs (게임 화면) 로 이동
+            if (label == label2) { MTAG.form1.UserControlVisible(MTAG.form1.stage_level1, this); MTAG.form1.cursorPosition(); }
 
 
-                // stage_level1.cs (게임 화면) 로 이동
-                MTAG.form1.UserControlVisible(MTAG.form1.stage_level1, this);
-            }
-
-
-            // select level 을 눌렀을 경우
+            // back 을 눌렀을 경우
             if (label == label3) {
                 MTAG.form1.level = 0;
 
