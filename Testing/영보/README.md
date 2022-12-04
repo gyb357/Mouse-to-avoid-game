@@ -13,3 +13,6 @@
 
 # UserControl0
 1. 기용2 개선안
+
+# ObjectMove0
+1. 장애물 동작

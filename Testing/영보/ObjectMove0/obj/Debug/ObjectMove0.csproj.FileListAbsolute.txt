@@ -1,0 +1,11 @@
+C:\Users\고영보\source\repos\ObjectMove0\bin\Debug\ObjectMove0.exe.config
+C:\Users\고영보\source\repos\ObjectMove0\bin\Debug\ObjectMove0.exe
+C:\Users\고영보\source\repos\ObjectMove0\bin\Debug\ObjectMove0.pdb
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.csproj.AssemblyReference.cache
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.csproj.SuggestedBindingRedirects.cache
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.Form1.resources
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.Properties.Resources.resources
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.csproj.GenerateResource.cache
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.csproj.CoreCompileInputs.cache
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.exe
+C:\Users\고영보\source\repos\ObjectMove0\obj\Debug\ObjectMove0.pdb
