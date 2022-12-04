@@ -131,7 +131,7 @@ namespace MTAG
         }
 
 
-
+        int time = 0;
         private void Tick(object sender, EventArgs e)
         {
             // 마우스 활동영역 설정
@@ -155,7 +155,64 @@ namespace MTAG
                 }
             }
 
+            //3-2 스테이지
+            if (Form1.form1.stage == 2 && Form1.form1.level == 3)
+            {
+                int k = (ClientSize.Width - Form1.form1.stage_level1.button3.Size.Width) / 2;
+                Form1.form1.stage_level1.label1.Visible = true;
+                Form1.form1.stage_level1.label2.Visible = true;
+                Form1.form1.stage_level1.button1.Visible = true;
+                Form1.form1.stage_level1.button2.Visible = true;
+                Form1.form1.stage_level1.button3.Visible = true;
+                Form1.form1.stage_level1.button4.Visible = true;
+                Form1.form1.stage_level1.button5.Visible = true;
+                Form1.form1.stage_level1.button1.Location = new Point(k - 300, 400);
+                Form1.form1.stage_level1.button2.Location = new Point(k - 150, 400);
+                Form1.form1.stage_level1.button3.Location = new Point(k , 400);
+                Form1.form1.stage_level1.button4.Location = new Point(k + 150, 400);
+                Form1.form1.stage_level1.button5.Location = new Point(k + 300, 400);
+                Form1.form1.stage_level1.label1.Location = new Point((ClientSize.Width - Form1.form1.stage_level1.label1.Size.Width)/2, 100);
+                Form1.form1.stage_level1.label2.Location = new Point((ClientSize.Width - Form1.form1.stage_level1.label2.Size.Width)/2, 250);
+                Form1.form1.stage_level1.label1.Text = "문제\n\n대기업 그룹의 사장이 죽기 직전, 벽에 유언을 남겼다. 과연 범인은 누구일까?";
+                Form1.form1.stage_level1.label2.Text = "유언 : ㄸ뚜ㅁ뜨뜨";
+            }
+            else
+            {
+                Form1.form1.stage_level1.label1.Visible = false;
+                Form1.form1.stage_level1.label2.Visible = false;
+                Form1.form1.stage_level1.button1.Visible = false;
+                Form1.form1.stage_level1.button2.Visible = false;
+                Form1.form1.stage_level1.button3.Visible = false;
+                Form1.form1.stage_level1.button4.Visible = false;
+                Form1.form1.stage_level1.button5.Visible = false;
+            }// 3-2 스테이지
 
+            time++;
+            Random rand = new Random();//3-3 스테이지
+            if (Form1.form1.stage == 3 && Form1.form1.level == 3)
+            {
+                int x = rand.Next(800 - Form1.form1.stage_level1.pictureBox1.Size.Width);
+                int y = rand.Next(600 - Form1.form1.stage_level1.pictureBox1.Size.Height);
+                int temp = rand.Next(8);
+                Form1.form1.stage_level1.pictureBox1.Size = new Size(100, 100);
+                Form1.form1.stage_level1.pictureBox1.Visible = true;
+
+                if (temp == 1 && time % 50 == 1)
+                {
+                    Form1.form1.stage_level1.pictureBox1.Location = new Point(x, y);
+                    Form1.form1.stage_level1.pictureBox1.BackColor = Color.FromArgb(255, 242, 0);
+                }
+                else if (time % 50 == 1)
+                {
+                    Form1.form1.stage_level1.pictureBox1.Location = new Point(x, y);
+                    Form1.form1.stage_level1.pictureBox1.BackColor = Color.FromArgb(237, 28, 36);
+                }
+            }
+            else
+            {
+                Form1.form1.stage_level1.pictureBox1.Visible = false;
+            }
+            if (time == 50) time = 0;//3-3 스테이지
 
             label1.Text = "color: " + mouseColor.ToString();
             label2.Text = "stage: " + stage.ToString();

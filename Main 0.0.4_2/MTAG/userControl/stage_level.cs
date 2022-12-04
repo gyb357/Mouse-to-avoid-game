@@ -20,26 +20,28 @@ namespace MTAG
             InitializeComponent();
         }
 
-
-
         public  int    temp      = 0;
         private string fp_folder = "\\image\\backGround\\stage_level\\"; // 배경 이미지 경로
 
-
-
         private void Key_Down(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Escape)
+            if (e.Alt)
             {
-                Form1.form1.state      = 0;
+                Form1.form1.state = 0;
                 Form1.form1.mousePoint = Cursor.Position;
                 Form1.form1.UserControlVisible(Form1.form1.game_pause1, this);
+            }
+            switch (e.KeyCode)
+            {
+                case Keys.Escape:
+                    Form1.form1.state = 0;
+                    Form1.form1.mousePoint = Cursor.Position;
+                    Form1.form1.UserControlVisible(Form1.form1.game_pause1, this);
 
-                temp = 1;
+                    temp = 1;
+                    break;
             }
         }
-
-
 
         // 배경 이미지 호풀
         private void stage_level_Paint(object sender, PaintEventArgs e)
@@ -59,6 +61,16 @@ namespace MTAG
                 i.Dispose();
             }
             catch { }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form1.form1.UserControlVisible(Form1.form1.game_over1, Form1.form1.stage_level1);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1.form1.UserControlVisible(Form1.form1.game_success1, Form1.form1.stage_level1);
         }
     }
 }
