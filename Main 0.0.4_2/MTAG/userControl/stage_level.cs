@@ -25,12 +25,6 @@ namespace MTAG
 
         private void Key_Down(object sender, KeyEventArgs e)
         {
-            if (e.Alt)
-            {
-                Form1.form1.state = 0;
-                Form1.form1.mousePoint = Cursor.Position;
-                Form1.form1.UserControlVisible(Form1.form1.game_pause1, this);
-            }
             switch (e.KeyCode)
             {
                 case Keys.Escape:

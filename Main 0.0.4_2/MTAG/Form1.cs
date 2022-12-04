@@ -219,5 +219,16 @@ namespace MTAG
             label3.Text = "level: " + level.ToString();
             label4.Text = "state: " + state.ToString();
         }
+
+        private void Form1_Deactivate(object sender, EventArgs e)
+        {
+            if (Form1.form1.stage_level1.Focus())
+            {
+                state = 0;
+                mousePoint = Cursor.Position;
+                UserControlVisible(Form1.form1.game_pause1, Form1.form1.stage_level1);
+                Form1.form1.stage_level1.temp = 1;
+            }
+        }// 알탭, 윈도우 키등 막는 부분, 폼이 비활성화 되면 일시정지 화면으로 바뀜
     }
 }

@@ -36,6 +36,7 @@ namespace MTAG
                 Form1.form1.level= 0;
                 Form1.form1.UserControlVisible(Form1.form1.select_level1, this);
             }
+            Form1.form1.stage_level1.temp = 0;
         }
 
 
