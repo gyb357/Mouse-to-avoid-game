@@ -20,3 +20,14 @@ C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Test
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.csproj.CoreCompileInputs.cache
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.exe
 C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.pdb
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.Form1.resources
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.Properties.Resources.resources
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.exe
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\obj\Debug\ObjectMove0.pdb
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\bin\Debug\ObjectMove0.exe.config
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\bin\Debug\ObjectMove0.exe
+C:\Users\USER\Desktop\Sourcetree\Mouse-to-avoid-game\Testing\영보\ObjectMove0\bin\Debug\ObjectMove0.pdb
