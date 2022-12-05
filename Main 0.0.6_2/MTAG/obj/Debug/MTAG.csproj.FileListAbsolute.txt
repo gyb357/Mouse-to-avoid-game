@@ -1,0 +1,209 @@
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\bin\Debug\MTAG.exe
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\bin\Debug\MTAG.pdb
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.exe
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.pdb
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\USER\source\repos\2022년도 윈도우 프로그래밍 실습 20192718\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\bin\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\bin\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_1\MTAG\obj\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\bin\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\bin\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_2\MTAG\obj\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\bin\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\bin\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.4_3\MTAG\obj\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\bin\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\bin\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.4_4\MTAG\obj\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\bin\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\bin\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.4_5 기용\MTAG\obj\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\bin\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\bin\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.5\MTAG\obj\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\bin\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\bin\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\bin\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\bin\Debug\MTAG.pdb
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.exe
+C:\Users\USER\Desktop\Main 0.0.5_기용\MTAG\obj\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\bin\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\bin\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6\MTAG\obj\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\bin\Debug\MTAG.exe.config
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\bin\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\bin\Debug\MTAG.pdb
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.csproj.AssemblyReference.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.Form1.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.game_over.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.game_pause.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.game_success.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.how_to_play.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.main.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.Properties.Resources.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.select_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.select_stage.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.stage_level.resources
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.csproj.GenerateResource.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.csproj.CoreCompileInputs.cache
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.exe
+C:\Users\gguip\OneDrive\바탕 화면\윈도우 프로그래밍 실습 2조\Main 0.0.6_2\MTAG\obj\Debug\MTAG.pdb
