@@ -51,7 +51,10 @@ namespace MTAG
         Stage_Levels stage_levels = new Stage_Levels();
 
 
-
+        public int stage_temp = 0;
+        public int level_temp = 0;
+        public int level_temp2 = 0;
+        public int level_temp3 = 0;
         public int     stage   = 0;
         public int     level   = 0;
         public int     state   = 0;
@@ -128,8 +131,9 @@ namespace MTAG
         };
         public Color[] game_OverAreaColor =
         {
-            Color.FromArgb(255, 255, 255),
-            Color.FromArgb(255, 242, 0)
+            //Color.FromArgb(255, 255, 255),
+            Color.FromArgb(237, 28, 36),
+            Color.FromArgb(0, 0, 0)
         };
 
         public string fp_Project = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName;
@@ -212,7 +216,147 @@ namespace MTAG
             }
         }
 
-
+        public void buttonEnabled()//버튼 활성화 stage_temp가 증가하면 다음 stage 버튼 활성화, level_temp(1stage), level_temp2(2stage), level_temp3(3stage)가 증가하면 다음 스테이지 버튼 활성화
+        {
+            if (stage == 1 && Form1.form1.level_temp == 0)
+            {
+                Form1.form1.select_level1.button2.Enabled = false;
+                Form1.form1.select_level1.button3.Enabled = false;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 1 && Form1.form1.level_temp == 1)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = false;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 1 && Form1.form1.level_temp == 2)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 1 && Form1.form1.level_temp == 3)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 1 && Form1.form1.level_temp == 4)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = true;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 1 && Form1.form1.level_temp == 5)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = true;
+                Form1.form1.select_level1.button6.Enabled = true;
+                Form1.form1.select_stage1.button2.Enabled = true;
+            }
+            else if (stage == 2 && Form1.form1.level_temp2 == 0)
+            {
+                Form1.form1.select_level1.button2.Enabled = false;
+                Form1.form1.select_level1.button3.Enabled = false;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 2 && Form1.form1.level_temp2 == 1)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = false;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 2 && Form1.form1.level_temp2 == 2)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 2 && Form1.form1.level_temp2 == 3)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 2 && Form1.form1.level_temp2 == 4)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = true;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 2 && Form1.form1.level_temp2 == 5)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = true;
+                Form1.form1.select_level1.button6.Enabled = true;
+                Form1.form1.select_stage1.button3.Enabled = true;
+            }
+            else if (stage == 3 && Form1.form1.level_temp3 == 1)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = false;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 3 && Form1.form1.level_temp3 == 2)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 3 && Form1.form1.level_temp3 == 3)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 3 && Form1.form1.level_temp3 == 4)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = true;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
+            else if (stage == 3 && Form1.form1.level_temp3 == 5)
+            {
+                Form1.form1.select_level1.button2.Enabled = true;
+                Form1.form1.select_level1.button3.Enabled = true;
+                Form1.form1.select_level1.button4.Enabled = true;
+                Form1.form1.select_level1.button5.Enabled = true;
+                Form1.form1.select_level1.button6.Enabled = true;
+            }
+        }
 
         private void Tick(object sender, EventArgs e)
         {
@@ -226,11 +370,31 @@ namespace MTAG
                 mouseColor = mouse.GetPointColor(Cursor.Position);
 
                 // game_success, game_over 판정
-                if (mouseColor == game_SuccessAreaColor[0]) { UserControlVisible(game_success1, stage_level1); }
-                if (mouseColor != game_OverAreaColor[0] &&
-                    mouseColor != game_OverAreaColor[1])
+                if (mouseColor == game_SuccessAreaColor[0]) { 
+                    UserControlVisible(game_success1, stage_level1);
+                    if (stage == 1 && level == 1 && level_temp == 0) { level_temp++; buttonEnabled(); }
+                    else if (stage == 1 && level == 2 && level_temp == 1) { level_temp++; buttonEnabled(); }
+                    else if (stage == 1 && level == 3 && level_temp == 2) { level_temp++; buttonEnabled(); }
+                    else if (stage == 1 && level == 4 && level_temp == 3) { level_temp++; buttonEnabled(); }
+                    else if (stage == 1 && level == 5 && level_temp == 4) { level_temp++; buttonEnabled(); }
+                    else if (stage == 1 && level == 6 && level_temp == 5) { stage_temp++; buttonEnabled(); }
+                    else if (stage == 2 && level == 1 && level_temp2 == 0) { level_temp2++; buttonEnabled(); }
+                    else if (stage == 2 && level == 2 && level_temp2 == 1) { level_temp2++; buttonEnabled(); }
+                    else if (stage == 2 && level == 3 && level_temp2 == 2) { level_temp2++; buttonEnabled(); }
+                    else if (stage == 2 && level == 4 && level_temp2 == 3) { level_temp2++; buttonEnabled(); }
+                    else if (stage == 2 && level == 5 && level_temp2 == 4) { level_temp2++; buttonEnabled(); }
+                    else if (stage == 2 && level == 6 && level_temp2 == 5) { stage_temp++; buttonEnabled(); }
+                    else if (stage == 3 && level == 1 && level_temp3 == 0) { level_temp3++; buttonEnabled(); }
+                    else if (stage == 3 && level == 2 && level_temp3 == 1) { level_temp3++; buttonEnabled(); }
+                    else if (stage == 3 && level == 3 && level_temp3 == 2) { level_temp3++; buttonEnabled(); }
+                    else if (stage == 3 && level == 4 && level_temp3 == 3) { level_temp3++; buttonEnabled(); }
+                    else if (stage == 3 && level == 5 && level_temp3 == 4) { level_temp3++; buttonEnabled(); }
+                    else if (stage == 3 && level == 6 && level_temp3 == 5) { buttonEnabled(); }
+                }
+                if (mouseColor == game_OverAreaColor[0] || mouseColor == game_OverAreaColor[1])
                 { UserControlVisible(game_over1, stage_level1); }
             }
+            else{buttonEnabled();}
 
 
             // 랜덤박스 스테이지 레벨
@@ -252,6 +416,8 @@ namespace MTAG
             label2.Text = "stage: " + stage.ToString();
             label3.Text = "level: " + level.ToString();
             label4.Text = "state: " + state.ToString();
+            label5.Text = "stage_temp" + stage_temp.ToString();
+            label6.Text = "level_temp" + level_temp.ToString() + "," + level_temp2.ToString() + "," + level_temp3.ToString();
         }
     }
 }
