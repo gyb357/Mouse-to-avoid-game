@@ -69,6 +69,10 @@ namespace MTAG
         Object o3_53 = new Object(new Point(100, 400), new Point(650, 450), 15, 1);
 
 
+
+        float angle;
+
+
         
         public void StageLevels_Objects(int s, int l)
         {
@@ -85,7 +89,13 @@ namespace MTAG
                     Form1.form1.stage_level1.pictureBox10.Size = new Size(200,100);
                     o1_3.sign = objects.ObjectMove_RoundTrip(Form1.form1.stage_level1.pictureBox10, o1_3.start, o1_3.end, o1_3.world, o1_3.spd, o1_3.sign);
                 }
-                else if (l == 4) {}
+                else if (l == 4) {
+                    angle++;
+                    Form1.form1.stage_level1.pictureBox15.Location = new Point(150, 50);
+                    Form1.form1.stage_level1.pictureBox15.Size = new Size(500, 500);
+
+                    Form1.form1.stage_level1.pictureBox15.Image = objects.ObjectMove_Rotate(Form1.form1.stage_level1.pictureBox15, Form1.form1.stage_level1.pictureBox19.Image, new PointF(Form1.form1.stage_level1.pictureBox19.Width / 2, Form1.form1.stage_level1.pictureBox19.Height / 2), angle);
+                }
                 else if (l == 5) 
                 {
                     Form1.form1.stage_level1.pictureBox10.Size = new Size(30, 150);

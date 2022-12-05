@@ -124,6 +124,9 @@
   <data name="stage 2 (150)(150)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\stage\stage 2 (150)(150).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="끝내기 p" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\logo\title\끝내기 p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="스테이지 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\스테이지 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -138,6 +141,12 @@
   </data>
   <data name="게임재개p" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\게임재개p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rotate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\object\Rotate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="선택화면으로n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\logo\title\선택화면으로n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="게임 시작 n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\게임 시작 n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -169,9 +178,6 @@
   <data name="끝내기 n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\끝내기 n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="끝내기 p" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\logo\title\끝내기 p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="스테이지 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\스테이지 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -186,9 +192,6 @@
   </data>
   <data name="스테이지 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\스테이지 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="선택화면으로p" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\logo\title\선택화면으로p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="title logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\title\title logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -205,19 +208,19 @@
   <data name="stage 3 (150)(150)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\stage\stage 3 (150)(150).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Stage 1 (150)(150)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\logo\stage\Stage 1 (150)(150).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="선택화면으로p" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\logo\title\선택화면으로p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\level\2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="선택화면으로n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\logo\title\선택화면으로n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Stage 1 (150)(150)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\logo\stage\Stage 1 (150)(150).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\logo\level\6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rotate" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\object\Rotate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rotate1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\object\Rotate1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

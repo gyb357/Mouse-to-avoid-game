@@ -183,6 +183,7 @@
     <Content Include="image\logo\title\게임 방법 n.png" />
     <Content Include="image\logo\title\게임 방법 p.png" />
     <Content Include="image\object\Rotate.png" />
+    <Content Include="image\object\Rotate1.png" />
     <None Include="image\logo\title\게임 방법.png" />
     <Content Include="image\logo\title\게임 시작 n.png" />
     <Content Include="image\logo\title\게임 시작 p.png" />
