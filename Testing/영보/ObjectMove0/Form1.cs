@@ -14,9 +14,14 @@ namespace ObjectMove0
 {
     public partial class Form1 : Form
     {
+        public Image fish_image;
+        public Image opacity_image;
+
         public Form1()
         {
             InitializeComponent();
+
+
         }
 
 
@@ -35,18 +40,28 @@ namespace ObjectMove0
         Point target2 = new Point(200, 400);
         int sign2 = 1;
         double[] world2 = { 0, 0 };
-        // PictureBox3
-        Point start3 = new Point(50, 50);
-        Point target3 = new Point(400, 400);
-        int sign3 = 1;
-        double[] world3 = { 0, 0 };
+        // PictureBox4
+        float angle1;
+        float spd1 = 2;
+        // PictureBox5
+        float angle2;
+        float spd2 = 4;
+
 
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             sign1 = obj.ObjectMove_RoundTrip(pictureBox1, start1, target1, world1, 5, sign1);
             sign2 = obj.ObjectMove_RoundTrip(pictureBox2, start2, target2, world2, 6, sign2);
-            sign3 = obj.ObjectMove_RoundTrip(pictureBox3, start3, target3, world3, 6, sign3);
+
+
+            angle1 += spd1;
+            label1.Text = angle1.ToString();
+            pictureBox4.Image = obj.ObjectMove_Rotate(pictureBox4, pictureBox3.Image, new PointF(pictureBox3.Image.Width / 2, pictureBox3.Image.Height/2), angle1);
+
+            angle2 += spd2;
+            label1.Text = angle2.ToString();
+            pictureBox5.Image = obj.ObjectMove_Rotate(pictureBox5, pictureBox3.Image, new PointF(pictureBox3.Image.Width / 2, pictureBox3.Image.Height / 2), angle2);
         }
     }
 }

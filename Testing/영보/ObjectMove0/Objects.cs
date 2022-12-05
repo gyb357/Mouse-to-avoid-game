@@ -70,16 +70,19 @@ namespace ObjectMove0
         }
 
 
-
-        public Bitmap ObjectMove_Rotate(Bitmap src, float angle)
+        public Bitmap ObjectMove_Rotate(PictureBox backGround, Image image, PointF offset, float angle)
         {
-            Bitmap   trg = new Bitmap(src.Width, src.Height);
-            Graphics g   = Graphics.FromImage(trg);
+            Bitmap rotatedBmp = new Bitmap(backGround.Width, backGround.Height);
+                   rotatedBmp.SetResolution(image.HorizontalResolution, image.VerticalResolution);
+            Graphics g = Graphics.FromImage(rotatedBmp);
 
-            g.TranslateTransform(src.Width / 2, src.Height / 2);
+            g.TranslateTransform(backGround.Width/2, backGround.Height/2);
             g.RotateTransform(angle);
+            g.TranslateTransform(-offset.X, -offset.Y);
+            g.DrawImage(image, new PointF(0, 0));
+            g.Dispose();
 
-            return trg;
+            return rotatedBmp;
         }
     }
 }
