@@ -49,7 +49,9 @@ namespace MTAG
                         {
                             Form1.form1.stage += 1;
                             Form1.form1.level  = 1;
-                            Form1.form1.select_level1.label1.Text = text + Form1.form1.stage;
+                            if (Form1.form1.stage == 1) { Form1.form1.select_level1.label1.Image = Properties.Resources.스테이지_1; }
+                            else if (Form1.form1.stage == 2) { Form1.form1.select_level1.label1.Image = Properties.Resources.스테이지_2; }
+                            else if (Form1.form1.stage == 3) { Form1.form1.select_level1.label1.Image = Properties.Resources.스테이지_3; }
                         }
                         else
                         {

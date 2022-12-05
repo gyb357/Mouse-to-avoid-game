@@ -20,7 +20,7 @@ namespace MTAG
             InitializeComponent();
         }
 
-        public  int    temp      = 0;
+        public  int    temp      = 0;//
         private string fp_folder = "\\image\\backGround\\stage_level\\"; // 배경 이미지 경로
 
         private void Key_Down(object sender, KeyEventArgs e)
