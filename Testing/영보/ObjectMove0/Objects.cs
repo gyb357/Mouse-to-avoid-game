@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Drawing;
 using System.Windows.Forms;
 
+
+
 namespace ObjectMove0
 {
     internal class Objects
@@ -65,6 +67,19 @@ namespace ObjectMove0
 
 
             return sign;
+        }
+
+
+
+        public Bitmap ObjectMove_Rotate(Bitmap src, float angle)
+        {
+            Bitmap   trg = new Bitmap(src.Width, src.Height);
+            Graphics g   = Graphics.FromImage(trg);
+
+            g.TranslateTransform(src.Width / 2, src.Height / 2);
+            g.RotateTransform(angle);
+
+            return trg;
         }
     }
 }
