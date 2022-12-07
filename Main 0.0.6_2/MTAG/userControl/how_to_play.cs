@@ -16,6 +16,7 @@ namespace MTAG
 
             label1.BackColor      = Color.Transparent;
             pictureBox1.BackColor = Color.Transparent;
+            label2.Text = "노란색 영역으로 마우스를 이동해보세요.";
         }
 
 

@@ -61,7 +61,6 @@
             this.label1.Size = new System.Drawing.Size(38, 12);
             this.label1.TabIndex = 8;
             this.label1.Text = "label1";
-            this.label1.Visible = false;
             // 
             // label2
             // 

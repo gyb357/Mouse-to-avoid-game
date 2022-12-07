@@ -127,7 +127,8 @@ namespace MTAG
         public Color   mouseColor            = new Color();
         public Color[] game_SuccessAreaColor =
         {
-            Color.FromArgb(255, 242, 0)
+            Color.FromArgb(255, 242, 0),
+            Color.FromArgb(254, 242, 0)
         };
         public Color[] game_OverAreaColor =
         {
@@ -175,7 +176,6 @@ namespace MTAG
                 Form1.form1.stage_level1.pictureBox12,
                 Form1.form1.stage_level1.pictureBox13,
                 Form1.form1.stage_level1.pictureBox14,
-
                 Form1.form1.stage_level1.pictureBox15,
                 Form1.form1.stage_level1.pictureBox16,
                 Form1.form1.stage_level1.pictureBox17,
@@ -190,8 +190,6 @@ namespace MTAG
                 }
             }
         }
-
-
 
         public void UserControlVisible(UserControl uc1, UserControl uc2)
         {
@@ -314,6 +312,14 @@ namespace MTAG
                 Form1.form1.select_level1.button6.Enabled = true;
                 Form1.form1.select_stage1.button3.Enabled = true;
             }
+            else if (stage == 3 && Form1.form1.level_temp3 == 0)
+            {
+                Form1.form1.select_level1.button2.Enabled = false;
+                Form1.form1.select_level1.button3.Enabled = false;
+                Form1.form1.select_level1.button4.Enabled = false;
+                Form1.form1.select_level1.button5.Enabled = false;
+                Form1.form1.select_level1.button6.Enabled = false;
+            }
             else if (stage == 3 && Form1.form1.level_temp3 == 1)
             {
                 Form1.form1.select_level1.button2.Enabled = true;
@@ -368,7 +374,7 @@ namespace MTAG
                 mouseColor = mouse.GetPointColor(Cursor.Position);
 
                 // game_success, game_over 판정
-                if (mouseColor == game_SuccessAreaColor[0]) { 
+                if (mouseColor == game_SuccessAreaColor[0] || mouseColor == game_SuccessAreaColor[1]) { 
                     UserControlVisible(game_success1, stage_level1);
                     if (stage == 1 && level == 1 && level_temp == 0) { level_temp++; buttonEnabled(); }
                     else if (stage == 1 && level == 2 && level_temp == 1) { level_temp++; buttonEnabled(); }
@@ -410,7 +416,7 @@ namespace MTAG
 
 
             // 디버그
-            //label1.Text = "color: " + mouseColor.ToString();
+            label1.Text = "color: " + mouseColor.ToString();
             //label2.Text = "stage: " + stage.ToString();
             //label3.Text = "level: " + level.ToString();
             //label4.Text = "state: " + state.ToString();
