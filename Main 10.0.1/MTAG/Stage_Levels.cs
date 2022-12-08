@@ -65,9 +65,9 @@ namespace MTAG
         Object o2_53 = new Object(new Point(510, 242), new Point(510, 380), 9, 1);
         Object o2_54 = new Object(new Point(620, 242), new Point(620, 380), 3, 1);
 
-        Object o3_41 = new Object(new Point(550, 0), new Point(550, 200), 5, 1);
-        Object o3_42 = new Object(new Point(450, 0), new Point(450, 200), 7, 1);
-        Object o3_43 = new Object(new Point(400, 0), new Point(400, 200), 9, 1);
+        Object o3_41 = new Object(new Point(550, 0), new Point(550, 100), 5, 1);
+        Object o3_42 = new Object(new Point(450, 0), new Point(450, 150), 7, 1);
+        Object o3_43 = new Object(new Point(400, 0), new Point(400, 150), 9, 1);
         Object o3_44 = new Object(new Point(150, 200), new Point(150, 300), 3, 1);
         Object o3_45 = new Object(new Point(220, 200), new Point(220, 300), 2, 1);
         Object o3_46 = new Object(new Point(300, 200), new Point(300, 300), 3, 1);
